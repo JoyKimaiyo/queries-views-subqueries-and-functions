@@ -1,0 +1,1 @@
+select actors as act where birth_year IN (1986, 2000);
